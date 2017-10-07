@@ -6,4 +6,9 @@ public class PracticeDemo {
 		
 		return "Sample";
 	}
+	
+	public Static void main(String args[]){
+	
+	System.out.println("Hello Java");
+	}
 }
